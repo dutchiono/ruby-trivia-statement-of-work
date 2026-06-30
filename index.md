@@ -29,10 +29,10 @@ The hourly rate, set minutes later:
 - **Web3 holder layer** — Solana wallet connect, holder verification, perks (multiplier, holders-only leaderboard, cosmetics).
 - **On-chain / contracts**, **Telegram bot gateway**, **production infrastructure**, **app-store repackaging**, **token-launch support**, **educational variant**.
 
-## 3. What I was actually paid
-- My own words to them: ***"I made $50 for the last three weeks."***
-- I drew roughly **$350** from the dev wallet for living costs (food, internet) — which they now call a debt I owe back.
-- Either way: **pennies — for three weeks plus a two-day, no-sleep launch.**
+## 3. What I actually got
+- I took **$350** from the dev wallet for living costs (food, internet) — the only money I've seen for any of this.
+- Their position now: my work is worth **$50** — so they're upset I took $350 and act like I **owe ~$300 back.**
+- **$350 for 106 hours** + a two-day, no-sleep launch = **$3.30 / hr.** Their **$50** valuation works out to **47¢ / hr.**
 
 ## 4. What I'm owed — at the rate they agreed to
 Based on **106 hours**:
