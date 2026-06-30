@@ -1,0 +1,5 @@
+title: Ruby Trivia — Statement of Work
+description: Work delivered, hours, and value — Dutch (dutchiono).
+defaults:
+  - scope: { path: "" }
+    values: { layout: default }
