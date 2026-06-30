@@ -6,23 +6,21 @@ title: Ruby Trivia — Hours & Bid (Dutch / dutchiono)
 
 *Dutch (`dutchiono`). Hours from public GitHub commit history across all Ruby repos. Full data: [downloadable workbook](Dutch-Ruby-Comp-Claim.xlsx).*
 
-## Hours
-| | |
-|---|---|
-| Active working days | **13** |
-| Commit-session floor (hrs) | **82** |
-| Hours (realistic) | **106** |
-| Amount paid to date | **$350** |
-| **Effective rate paid** | **$3.30 / hr** |
+## Hours worked
+| Active days | Hours (floor) | Hours (realistic) | Paid to date | Effective rate paid |
+|:--:|:--:|:--:|:--:|:--:|
+| 13 | 82 | **106** | $350 | **$3.30 / hr** |
 
-## Bid — hours × three rates
-| Rate | Hours | Gross | Less paid | Owed |
-|---|---:|---:|---:|---:|
-| **$10 / hr** | 106 | $1,060 | −$350 | **$710** |
-| **$50 / hr** | 106 | $5,300 | −$350 | **$4,950** |
-| **$150 / hr** | 106 | $15,900 | −$350 | **$15,550** |
+## What I am owed — at three rates
+Based on **106 hours**, minus the **$350** paid:
 
-*(Floor variant at 82 hrs: $470 / $3,750 / $11,950 owed.)*
+| Rate | Total | Paid | Still owed |
+|:--|--:|--:|--:|
+| **$10 / hr** | $1,060 | $350 | **$710** |
+| **$25 / hr** | $2,650 | $350 | **$2,300** |
+| **$50 / hr** | $5,300 | $350 | **$4,950** |
+
+*$50/hr is the rate already agreed. $25 is half that. $10 is a floor.*
 
 ## What was built & shipped
 - **Trivia PWA** — daily quiz, practice, friend challenges, leaderboards, streaks, ranks/badges, 4 languages, installable.
@@ -32,4 +30,4 @@ title: Ruby Trivia — Hours & Bid (Dutch / dutchiono)
 - **On-chain / contracts**, **Telegram bot gateway**, **production infrastructure**, **app-store repackaging**, **token-launch support**, **educational variant**.
 
 ## Full breakdown
-**[⬇ Download the workbook (Excel)](Dutch-Ruby-Comp-Claim.xlsx)** — hours by day (with @ $10 / $50 / $150 columns), commit log, and method.
+**[⬇ Download the workbook (Excel)](Dutch-Ruby-Comp-Claim.xlsx)** — hours by day (with @ $10 / $25 / $50 columns), commit log, and method.
